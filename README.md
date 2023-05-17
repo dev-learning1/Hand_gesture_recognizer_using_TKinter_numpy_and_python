@@ -37,3 +37,11 @@ Hand gesture recognizer using TKinter, numpy, and python
 개수, 그리고 이에 기반한 인식률을 계산하세요. 
 8) ‘실행 결과 저장’ 을 누르면 보라색 화면의 내용을 txt 파일로 저장시킬 것. 
 9) 위에서 상술한 기본 기능은 반드시 포함되어야 하며 그 외는 제작자의 자율에 맡김. 
+
+---------------------------------------------------------------------------------------------
+결과
+
+![image](https://github.com/dev-learning1/Hand_gesture_recognizer_using_TKinter_numpy_and_python/assets/115637631/720c133b-e11b-4ad3-9fa9-764b4aebc2a0)
+
+
+
